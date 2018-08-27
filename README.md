@@ -110,6 +110,8 @@
 
     * Recurrent VAE &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/vae/train.ipynb)
 
+        * Variational Inference via tf.distributions &nbsp; &nbsp; [Notebook](https://nbviewer.jupyter.org/github/zhedongzheng/finch/blob/master/src_nlp/tensorflow/vae/train_tfd.ipynb)
+
     * "Toward Controlled Generation of Text" (ICML 2017) &nbsp; &nbsp; [Folder](https://github.com/zhedongzheng/finch/tree/master/src_nlp/tensorflow/toward_control)
 
 * Data Argumentation（数据增强）
